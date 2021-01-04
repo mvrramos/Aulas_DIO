@@ -8,6 +8,12 @@ public class NaoPrimitivos {
         Void v;
         Object o = new Object();
         Number numero = Integer.valueOf(100);
+
+        System.out.println(texto);
+        System.out.println(v);
+        System.out.println(o);
+        System.out.println(numero);
+
     }
     
 }
