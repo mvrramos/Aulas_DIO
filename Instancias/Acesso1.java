@@ -1,3 +1,5 @@
+package Instancias;
+
 public class Acesso1 {
     public static void main(String[] args) {
         Acesso2 pitbull = new Acesso2();

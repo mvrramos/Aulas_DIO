@@ -1,3 +1,5 @@
+package Classe;
+
 public class Objeto {
     public static void main(String[] args) {
         //Instanciando(criando) um objeto de pessoa 

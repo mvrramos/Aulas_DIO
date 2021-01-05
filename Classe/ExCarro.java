@@ -1,3 +1,5 @@
+package Classe;
+
 import java.util.Scanner;
 
 public class ExCarro {
