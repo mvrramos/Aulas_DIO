@@ -1,0 +1,16 @@
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/bin/Debug/net5.0/DIO
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/bin/Debug/net5.0/DIO.deps.json
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/bin/Debug/net5.0/DIO.runtimeconfig.json
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/bin/Debug/net5.0/DIO.runtimeconfig.dev.json
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/bin/Debug/net5.0/DIO.dll
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/bin/Debug/net5.0/ref/DIO.dll
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/bin/Debug/net5.0/DIO.pdb
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/obj/Debug/net5.0/DIO.csprojAssemblyReference.cache
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/obj/Debug/net5.0/DIO.GeneratedMSBuildEditorConfig.editorconfig
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/obj/Debug/net5.0/DIO.AssemblyInfoInputs.cache
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/obj/Debug/net5.0/DIO.AssemblyInfo.cs
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/obj/Debug/net5.0/DIO.csproj.CoreCompileInputs.cache
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/obj/Debug/net5.0/DIO.dll
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/obj/Debug/net5.0/ref/DIO.dll
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/obj/Debug/net5.0/DIO.pdb
+/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/obj/Debug/net5.0/DIO.genruntimeconfig.cache
