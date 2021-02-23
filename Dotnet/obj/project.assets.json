@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/DIO.csproj",
+      "projectUniqueName": "/media/marcos/Backup/Programação/GitHub/Aulas_DIO/Dotnet/DIO.csproj",
       "projectName": "DIO",
-      "projectPath": "/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/DIO.csproj",
+      "projectPath": "/media/marcos/Backup/Programação/GitHub/Aulas_DIO/Dotnet/DIO.csproj",
       "packagesPath": "/home/marcos/.nuget/packages/",
-      "outputPath": "/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/obj/",
+      "outputPath": "/media/marcos/Backup/Programação/GitHub/Aulas_DIO/Dotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/marcos/.nuget/NuGet/NuGet.Config"

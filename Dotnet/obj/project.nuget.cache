@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5r6EmPF/HwJZkNLqWtWdT6yx801uxl4yqgD16F+rN2KMlGmwsuQSYS9vRINaaEpBQBca2NbYu4n1hiNYhzv0dw==",
+  "dgSpecHash": "zUPMEdjhI+PtrN2tCdrcrJoyjmErLcnbT6TOMhLAQf+oBaCae5TT9HHFKQtrDaGruSrDhY60RXR+zjHNjIJuiQ==",
   "success": true,
-  "projectFilePath": "/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/DIO.csproj",
+  "projectFilePath": "/media/marcos/Backup/Programação/GitHub/Aulas_DIO/Dotnet/DIO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

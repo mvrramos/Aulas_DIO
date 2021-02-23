@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/DIO.csproj": {}
+    "/media/marcos/Backup/Programação/GitHub/Aulas_DIO/Dotnet/DIO.csproj": {}
   },
   "projects": {
-    "/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/DIO.csproj": {
+    "/media/marcos/Backup/Programação/GitHub/Aulas_DIO/Dotnet/DIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/DIO.csproj",
+        "projectUniqueName": "/media/marcos/Backup/Programação/GitHub/Aulas_DIO/Dotnet/DIO.csproj",
         "projectName": "DIO",
-        "projectPath": "/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/DIO.csproj",
-        "packagesPath": "/home/marcos/.nuget/packages/",
-        "outputPath": "/media/marcos/Backup/Programação/GitHub/Dotnet/DIO/obj/",
+        "projectPath": "/media/marcos/Backup/Programação/GitHub/Aulas_DIO/Dotnet/DIO.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/media/marcos/Backup/Programação/GitHub/Aulas_DIO/Dotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/marcos/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
