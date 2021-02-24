@@ -5,31 +5,26 @@
     "version": "0.2.0",
     "configurations": [
         {
+            // "OS-COMMENT1": "Use IntelliSense to find out which attributes exist for C# debugging",
+            // "OS-COMMENT2": "Use hover for the description of the existing attributes",
+            // "OS-COMMENT3": "For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md",
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/<target-framework>/<project-name.dll>",
+            // "OS-COMMENT4": "If you have changed target frameworks, make sure to update the program path.",
+            "program": "${workspaceFolder}/Desafios/bin/Debug/net5.0/Desafios.dll",
             "args": [],
-            "cwd": "${workspaceFolder}",
-            "stopAtEntry": false,
-            "console": "internalConsole"
+            "cwd": "${workspaceFolder}/Desafios",
+            // "OS-COMMENT5": "For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console",
+            "console": "internalConsole",
+            "stopAtEntry": false
         },
-        
-
         {
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach",
             "processId": "${command:pickProcess}"
-        },
-
-        {
-            "command": "npm start",
-            "name": "Run npm start",
-            "request": "launch",
-            "type": "node-terminal"
         }
-        
     ]
 }
